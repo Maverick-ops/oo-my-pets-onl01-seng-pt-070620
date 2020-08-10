@@ -1,4 +1,6 @@
 class Owner
   attr_accessor :name 
-  # code goes here
+  
+  def name
+    @@name # code goes here
 end
