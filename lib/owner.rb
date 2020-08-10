@@ -3,4 +3,5 @@ class Owner
   
   def name
     @@name # code goes here
+  end
 end
