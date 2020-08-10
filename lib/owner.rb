@@ -9,5 +9,5 @@ class Owner
     @species = "human"
   end
   
-  def species_can_say
+  def say_species 
 end
