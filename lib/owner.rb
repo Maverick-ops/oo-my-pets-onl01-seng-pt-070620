@@ -26,5 +26,5 @@ class Owner
   end 
   
   def cats 
-    
+    Cat.select 
 end 
