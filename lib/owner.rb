@@ -1,5 +1,5 @@
 class Owner
-  attr_accessor :name 
+  attr_accessor :name, :
   
   def name
     @@name # code goes here
