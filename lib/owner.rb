@@ -11,4 +11,7 @@ class Owner
     @@all << self # code goes here
   end
   
+  def self.all
+    @@all
+  end 
 end
